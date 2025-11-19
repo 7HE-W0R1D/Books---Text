@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08f33b8d-722f-4fed-a137-a924f3266a5a</dc:identifier>
+        <dc:title>零伯爵（读客熊猫君出品，科幻小说宗师、赛博朋克之父威廉吉布森的经典代表作。“赛博朋克”圣经《神经漫游者》的续集。）</dc:title>
+        <dc:creator opf:file-as="威廉吉布森" opf:role="aut">威廉吉布森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-01T05:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00VWM8LMY</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="零伯爵（读客熊猫君出品，科幻小说宗师、赛博朋克之父威廉吉布森的经典代表作。“赛博朋克”圣经《神经漫游者》的续集。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="零伯爵（读客熊猫君出品，科幻小说宗师、赛博朋克之父威廉吉布森的经典代表作。“赛博朋克”圣经《神经漫游者》的续集。） - 威廉吉布森.jpg"/>
+    </guide>
+</package>

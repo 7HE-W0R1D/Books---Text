@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a08cd093-a4cd-48f8-80f3-107f8a8cc2e4</dc:identifier>
+        <dc:title>三国演义 (古典名著普及文库)</dc:title>
+        <dc:creator opf:file-as="罗贯中" opf:role="aut">罗贯中</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-23T05:00:00+00:00</dc:date>
+        <dc:publisher>岳麓书社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00AA7KENG</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="三国演义 (古典名著普及文库)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="三国演义 (古典名著普及文库) - 罗贯中.jpg"/>
+    </guide>
+</package>

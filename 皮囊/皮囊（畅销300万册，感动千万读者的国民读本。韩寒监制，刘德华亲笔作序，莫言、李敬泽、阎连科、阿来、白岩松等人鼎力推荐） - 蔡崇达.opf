@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3630384-6e53-4bcd-bd3f-54f1c0ae0c13</dc:identifier>
+        <dc:title>皮囊（畅销300万册，感动千万读者的国民读本。韩寒监制，刘德华亲笔作序，莫言、李敬泽、阎连科、阿来、白岩松等人鼎力推荐）</dc:title>
+        <dc:creator opf:file-as="蔡崇达" opf:role="aut">蔡崇达</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-01T05:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00UURHLQO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787201088945</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="皮囊（畅销300万册，感动千万读者的国民读本。韩寒监制，刘德华亲笔作序，莫言、李敬泽、阎连科、阿来、白岩松等人鼎力推荐）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="皮囊（畅销300万册，感动千万读者的国民读本。韩寒监制，刘德华亲笔作序，莫言、李敬泽、阎连科、阿来、白岩松等人鼎力推荐） - 蔡崇达.jpg"/>
+    </guide>
+</package>

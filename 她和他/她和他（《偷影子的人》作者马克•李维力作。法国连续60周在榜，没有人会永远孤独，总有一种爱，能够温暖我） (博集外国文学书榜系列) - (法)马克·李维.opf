@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bae4c898-80b0-450e-a2a2-1e543c9411bf</dc:identifier>
+        <dc:title>她和他（《偷影子的人》作者马克•李维力作。法国连续60周在榜，没有人会永远孤独，总有一种爱，能够温暖我） (博集外国文学书榜系列)</dc:title>
+        <dc:creator opf:file-as="(法)马克·李维" opf:role="aut">(法)马克·李维</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-01T05:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01M1H9ZJE</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="她和他（《偷影子的人》作者马克•李维力作。法国连续60周在榜，没有人会永远孤独，总有一种爱，能够温暖我） (博集外国文学书榜系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="她和他（《偷影子的人》作者马克•李维力作。法国连续60周在榜，没有人会永远孤独，总有一种爱，能够温暖我） (博集外国文学书榜系列) - (法)马克·李维.jpg"/>
+    </guide>
+</package>

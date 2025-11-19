@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2f64a4b-5fa7-4035-bcdf-c7b63b813ac5</dc:identifier>
+        <dc:title>天父地母 (第七届全球华语科幻星云奖最佳长篇小说-银奖)</dc:title>
+        <dc:creator opf:file-as="王晋康" opf:role="aut">王晋康</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-01T05:00:00+00:00</dc:date>
+        <dc:publisher>四川科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N9LO2XS</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="天父地母 (第七届全球华语科幻星云奖最佳长篇小说-银奖)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="天父地母 (第七届全球华语科幻星云奖最佳长篇小说-银奖) - 王晋康.jpg"/>
+    </guide>
+</package>

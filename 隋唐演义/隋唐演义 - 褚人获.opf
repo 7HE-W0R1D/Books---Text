@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c88b90a6-9f86-4217-a3a1-507221baa301</dc:identifier>
+        <dc:title>隋唐演义</dc:title>
+        <dc:creator opf:file-as="褚人获" opf:role="aut">褚人获</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-01T05:00:00+00:00</dc:date>
+        <dc:publisher>凤凰出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00C4PGGCA</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="隋唐演义"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="隋唐演义 - 褚人获.jpg"/>
+    </guide>
+</package>

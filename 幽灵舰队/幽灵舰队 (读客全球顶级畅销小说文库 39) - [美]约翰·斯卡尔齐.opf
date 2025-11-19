@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d86f813-c3d8-48f0-bbed-ef53a41ff7b7</dc:identifier>
+        <dc:title>幽灵舰队 (读客全球顶级畅销小说文库 39)</dc:title>
+        <dc:creator opf:file-as="[美]约翰·斯卡尔齐" opf:role="aut">[美]约翰·斯卡尔齐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-01T05:00:00+00:00</dc:date>
+        <dc:description>随着人类向外星球的扩张殖民，宇宙正在变得越来越危险，三个种族的外星人正准备结盟对付人类，一场大战迫在眉睫。幽灵旅——殖民防卫军的特种部队，是人类最强的防卫力量，他们由死去之人的DNA克隆而成，身体强壮、反应敏捷，生来就是战士。 　　雅列·狄拉克，一名特别的“幽灵旅”战士，他诞生的目的，就是充当叛徒查尔斯·布廷的记忆容器，找到他背叛的理由。谁知传送的过程竟然出了差错，雅列产生了自己的意识。而布廷的记忆也随着战争的激化渐渐苏醒，一善一恶两个灵魂在他的体内不断交战，威胁人类的巨大阴谋也渐渐浮出水面。 　　就在这人类存亡的危急关头，面对难以战胜的强大敌人，即使是“幽灵”，也无法违逆人性的呼唤……</dc:description>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00HN298XS</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="幽灵舰队 (读客全球顶级畅销小说文库 39)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="幽灵舰队 (读客全球顶级畅销小说文库 39) - [美]约翰·斯卡尔齐.jpg"/>
+    </guide>
+</package>

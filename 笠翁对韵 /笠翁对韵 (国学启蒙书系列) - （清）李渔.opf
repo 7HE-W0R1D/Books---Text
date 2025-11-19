@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbb2cb2b-5d94-40af-a73f-fbc3da34e923</dc:identifier>
+        <dc:title>笠翁对韵 (国学启蒙书系列)</dc:title>
+        <dc:creator opf:file-as="（清）李渔" opf:role="aut">（清）李渔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T05:00:00+00:00</dc:date>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00C153QZS</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="笠翁对韵 (国学启蒙书系列)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="笠翁对韵 (国学启蒙书系列) - （清）李渔.jpg"/>
+    </guide>
+</package>

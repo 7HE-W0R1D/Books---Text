@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa5f415a-75af-4722-945a-d9c93212d212</dc:identifier>
+        <dc:title>一个中国人在中国的遭遇（ 科幻之父儒勒·凡尔纳唯一的一部以中国为背景的小说）</dc:title>
+        <dc:creator opf:file-as="儒勒·凡尔纳 (Jules Verne)" opf:role="aut">儒勒·凡尔纳 (Jules Verne)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-01T05:00:00+00:00</dc:date>
+        <dc:publisher>安徽教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008HK7A76</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="一个中国人在中国的遭遇（ 科幻之父儒勒·凡尔纳唯一的一部以中国为背景的小说）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="一个中国人在中国的遭遇（ 科幻之父儒勒·凡尔纳唯一的一部以中国为背景的小说） - 儒勒·凡尔纳 (Jules Verne).jpg"/>
+    </guide>
+</package>

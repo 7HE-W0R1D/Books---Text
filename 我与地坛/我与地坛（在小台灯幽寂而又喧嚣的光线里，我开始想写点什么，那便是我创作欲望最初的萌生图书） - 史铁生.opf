@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbaa1d87-69a5-41e0-ac8a-6a47a6d1fd0e</dc:identifier>
+        <dc:title>我与地坛（在小台灯幽寂而又喧嚣的光线里，我开始想写点什么，那便是我创作欲望最初的萌生图书）</dc:title>
+        <dc:creator opf:file-as="史铁生" opf:role="aut">史铁生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-01T05:00:00+00:00</dc:date>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00H2BD9IK</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="我与地坛（在小台灯幽寂而又喧嚣的光线里，我开始想写点什么，那便是我创作欲望最初的萌生图书）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="我与地坛（在小台灯幽寂而又喧嚣的光线里，我开始想写点什么，那便是我创作欲望最初的萌生图书） - 史铁生.jpg"/>
+    </guide>
+</package>

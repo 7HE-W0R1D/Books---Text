@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b88b32ef-835f-4e01-bf26-06e8f736fb96</dc:identifier>
+        <dc:title>小王子(法国“圣埃克苏佩里基金会”官方认可简体中文译本)(果麦经典)</dc:title>
+        <dc:creator opf:file-as="安托万·德·圣埃克苏佩里" opf:role="aut">安托万·德·圣埃克苏佩里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-04T05:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CBDG2ZG</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787201077642</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="小王子(法国“圣埃克苏佩里基金会”官方认可简体中文译本)(果麦经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="小王子(法国“圣埃克苏佩里基金会”官方认可简体中文译本)(果麦经典) - 安托万·德·圣埃克苏佩里.jpg"/>
+    </guide>
+</package>

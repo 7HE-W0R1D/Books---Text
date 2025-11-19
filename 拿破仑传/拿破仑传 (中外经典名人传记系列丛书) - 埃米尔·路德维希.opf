@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0c51b1a-da27-4610-9f7f-b023b74a51b2</dc:identifier>
+        <dc:title>拿破仑传 (中外经典名人传记系列丛书)</dc:title>
+        <dc:creator opf:file-as="埃米尔·路德维希" opf:role="aut">埃米尔·路德维希</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T05:00:00+00:00</dc:date>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B009WNRDL0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="拿破仑传 (中外经典名人传记系列丛书)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="拿破仑传 (中外经典名人传记系列丛书) - 埃米尔·路德维希.jpg"/>
+    </guide>
+</package>

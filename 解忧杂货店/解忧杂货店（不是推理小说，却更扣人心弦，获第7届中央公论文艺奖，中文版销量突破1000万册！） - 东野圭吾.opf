@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74fa583a-1546-4a51-ae74-9e3e1bbbd829</dc:identifier>
+        <dc:title>解忧杂货店（不是推理小说，却更扣人心弦，获第7届中央公论文艺奖，中文版销量突破1000万册！）</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-01T05:00:00+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00NOQNHP2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="解忧杂货店（不是推理小说，却更扣人心弦，获第7届中央公论文艺奖，中文版销量突破1000万册！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="解忧杂货店（不是推理小说，却更扣人心弦，获第7届中央公论文艺奖，中文版销量突破1000万册！） - 东野圭吾.jpg"/>
+    </guide>
+</package>

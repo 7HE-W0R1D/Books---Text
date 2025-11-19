@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74f2ba2b-0291-486f-8b62-7c6a6e0bfac5</dc:identifier>
+        <dc:title>作家榜经典：老残游记(讲透中国官场规则、潜规则的传世经典小说，全新未删节畅销珍藏版) (大星作家榜经典文库)</dc:title>
+        <dc:creator opf:file-as="刘鹗" opf:role="aut">刘鹗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-04T05:00:00+00:00</dc:date>
+        <dc:description>一部讲透中国官场规则、潜规则的传世经典小说 本书主人公老残，不入仕途，浪迹江湖，凭借医术糊口，游走中华大地，看似跌宕曲折的游历，实则是潜入官场内部的冒险。 老残一路走，一路看，茫茫官场，芸芸百官，玉贤、刚弼等“清官”的真实面目、官场晋升的手段和细节，一一浮出水面，读来不寒而栗；中国传统官场文化中的规则与潜规则，再无任何遮掩！ 本书问世百年，赢得“中国近一百年内无此小说”之盛赞，更被联合国教科文组织认定为世界文学名著。</dc:description>
+        <dc:publisher>浙江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B075CK8GJQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="作家榜经典：老残游记(讲透中国官场规则、潜规则的传世经典小说，全新未删节畅销珍藏版) (大星作家榜经典文库)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="作家榜经典：老残游记(讲透中国官场规则、潜规则的传世经典小说，全新未删节畅销珍藏版) (大星作家榜经典文库) - 刘鹗.jpg"/>
+    </guide>
+</package>

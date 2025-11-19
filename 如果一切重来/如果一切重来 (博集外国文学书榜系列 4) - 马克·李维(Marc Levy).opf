@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22c065df-8fd9-420b-a37b-27781884bff8</dc:identifier>
+        <dc:title>如果一切重来 (博集外国文学书榜系列 4)</dc:title>
+        <dc:creator opf:file-as="马克·李维(Marc Levy)" opf:role="aut">马克·李维(Marc Levy)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00MFHALRS</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="如果一切重来 (博集外国文学书榜系列 4)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="如果一切重来 (博集外国文学书榜系列 4) - 马克·李维(Marc Levy).jpg"/>
+    </guide>
+</package>

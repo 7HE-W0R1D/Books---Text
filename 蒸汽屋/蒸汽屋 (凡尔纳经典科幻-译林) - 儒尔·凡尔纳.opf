@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f018a36-7792-4161-913e-7774901d3fc2</dc:identifier>
+        <dc:title>蒸汽屋 (凡尔纳经典科幻-译林)</dc:title>
+        <dc:creator opf:file-as="儒尔·凡尔纳" opf:role="aut">儒尔·凡尔纳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>凤凰出版传媒集团，译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CCWKJ1Y</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="蒸汽屋 (凡尔纳经典科幻-译林)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="蒸汽屋 (凡尔纳经典科幻-译林) - 儒尔·凡尔纳.jpg"/>
+    </guide>
+</package>

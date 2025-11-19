@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e6e9134-afa6-4ed5-b9bf-6b263a7c583a</dc:identifier>
+        <dc:title>诗经</dc:title>
+        <dc:creator opf:file-as="佚名" opf:role="aut">佚名</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-23T05:00:00+00:00</dc:date>
+        <dc:description>《诗经》共收集了311篇诗歌(又称诗三百），其中6篇为笙诗，只有标题，没有内容，现存305篇(既有标题又有文辞的)。到了战国时期，礼崩乐坏，大量乐谱失传，仅存的歌词则编入《诗经》。</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A8EIBT0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="诗经"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="诗经 - 佚名.jpg"/>
+    </guide>
+</package>

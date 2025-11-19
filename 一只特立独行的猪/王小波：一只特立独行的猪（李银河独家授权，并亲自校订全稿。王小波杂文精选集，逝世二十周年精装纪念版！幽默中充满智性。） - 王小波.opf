@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45f4d7e1-a66e-489c-a001-945466fa57f0</dc:identifier>
+        <dc:title>王小波：一只特立独行的猪（李银河独家授权，并亲自校订全稿。王小波杂文精选集，逝世二十周年精装纪念版！幽默中充满智性。）</dc:title>
+        <dc:creator opf:file-as="王小波" opf:role="aut">王小波</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-01T05:00:00+00:00</dc:date>
+        <dc:publisher>北京出版集团北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B074K45YL3</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="王小波：一只特立独行的猪（李银河独家授权，并亲自校订全稿。王小波杂文精选集，逝世二十周年精装纪念版！幽默中充满智性。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="王小波：一只特立独行的猪（李银河独家授权，并亲自校订全稿。王小波杂文精选集，逝世二十周年精装纪念版！幽默中充满智性。） - 王小波.jpg"/>
+    </guide>
+</package>

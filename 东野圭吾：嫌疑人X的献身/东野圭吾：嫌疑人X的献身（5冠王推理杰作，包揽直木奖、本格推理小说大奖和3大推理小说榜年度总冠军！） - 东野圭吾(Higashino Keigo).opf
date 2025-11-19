@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1de1e83d-8666-4caf-9bfe-73696c59ce98</dc:identifier>
+        <dc:title>东野圭吾：嫌疑人X的献身（5冠王推理杰作，包揽直木奖、本格推理小说大奖和3大推理小说榜年度总冠军！）</dc:title>
+        <dc:creator opf:file-as="东野圭吾(Higashino Keigo)" opf:role="aut">东野圭吾(Higashino Keigo)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-01T05:00:00+00:00</dc:date>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B079DPRPR3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544267618</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="东野圭吾：嫌疑人X的献身（5冠王推理杰作，包揽直木奖、本格推理小说大奖和3大推理小说榜年度总冠军！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="东野圭吾：嫌疑人X的献身（5冠王推理杰作，包揽直木奖、本格推理小说大奖和3大推理小说榜年度总冠军！） - 东野圭吾(Higashino Keigo).jpg"/>
+    </guide>
+</package>

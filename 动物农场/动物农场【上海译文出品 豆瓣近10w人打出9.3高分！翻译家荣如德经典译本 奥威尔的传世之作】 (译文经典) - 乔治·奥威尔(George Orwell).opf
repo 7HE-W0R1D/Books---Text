@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a02323e0-d684-4f08-8a5b-fa0149f24955</dc:identifier>
+        <dc:title>动物农场【上海译文出品 豆瓣近10w人打出9.3高分！翻译家荣如德经典译本 奥威尔的传世之作】 (译文经典)</dc:title>
+        <dc:creator opf:file-as="乔治·奥威尔(George Orwell)" opf:role="aut">乔治·奥威尔(George Orwell)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-01T05:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0099MSHJQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="动物农场【上海译文出品 豆瓣近10w人打出9.3高分！翻译家荣如德经典译本 奥威尔的传世之作】 (译文经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="动物农场【上海译文出品 豆瓣近10w人打出9.3高分！翻译家荣如德经典译本 奥威尔的传世之作】 (译文经典) - 乔治·奥威尔(George Orwell).jpg"/>
+    </guide>
+</package>

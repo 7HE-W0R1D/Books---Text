@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2eec4b84-f693-4c89-bbb2-a29ec27e20c7</dc:identifier>
+        <dc:title>Facebook之父马克·扎克伯格——后乔布斯时代的传奇</dc:title>
+        <dc:creator opf:file-as="王静, 林志共" opf:role="aut">林志共 王静</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-01T05:00:00+00:00</dc:date>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00BQ83AL6</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="Facebook之父马克·扎克伯格——后乔布斯时代的传奇"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Facebook之父马克·扎克伯格——后乔布斯时代的传奇 - 林志共 王静.jpg"/>
+    </guide>
+</package>

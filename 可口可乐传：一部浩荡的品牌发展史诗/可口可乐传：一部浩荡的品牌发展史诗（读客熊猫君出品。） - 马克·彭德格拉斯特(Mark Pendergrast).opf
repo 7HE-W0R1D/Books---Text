@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad3a9c2d-c766-4650-aa99-7fd20eb76458</dc:identifier>
+        <dc:title>可口可乐传：一部浩荡的品牌发展史诗（读客熊猫君出品。）</dc:title>
+        <dc:creator opf:file-as="马克·彭德格拉斯特(Mark Pendergrast)" opf:role="aut">马克·彭德格拉斯特(Mark Pendergrast)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-01T05:00:00+00:00</dc:date>
+        <dc:publisher>文汇出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B073B7H6GJ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="可口可乐传：一部浩荡的品牌发展史诗（读客熊猫君出品。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="可口可乐传：一部浩荡的品牌发展史诗（读客熊猫君出品。） - 马克·彭德格拉斯特(Mark Pendergrast).jpg"/>
+    </guide>
+</package>

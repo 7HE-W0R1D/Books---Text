@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba2a67bc-eefd-4d16-80e2-1ffca5c36c16</dc:identifier>
+        <dc:title>美妙的新世界 (经典译林)</dc:title>
+        <dc:creator opf:file-as="阿道斯·伦纳德·赫胥黎" opf:role="aut">阿道斯·伦纳德·赫胥黎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>凤凰出版传媒集团,译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00GMZKYS0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544742054</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>①长篇小说-英国-现代</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="美妙的新世界 (经典译林)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="美妙的新世界 (经典译林) - 阿道斯·伦纳德·赫胥黎.jpg"/>
+    </guide>
+</package>

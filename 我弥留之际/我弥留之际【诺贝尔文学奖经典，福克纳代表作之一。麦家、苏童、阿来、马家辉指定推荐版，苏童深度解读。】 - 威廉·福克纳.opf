@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ba644ca-92c8-40e9-9cfe-dd682a8ed648</dc:identifier>
+        <dc:title>我弥留之际【诺贝尔文学奖经典，福克纳代表作之一。麦家、苏童、阿来、马家辉指定推荐版，苏童深度解读。】</dc:title>
+        <dc:creator opf:file-as="威廉·福克纳" opf:role="aut">威廉·福克纳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-11T05:00:00+00:00</dc:date>
+        <dc:publisher>浙江教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07HCD397V</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="我弥留之际【诺贝尔文学奖经典，福克纳代表作之一。麦家、苏童、阿来、马家辉指定推荐版，苏童深度解读。】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="我弥留之际【诺贝尔文学奖经典，福克纳代表作之一。麦家、苏童、阿来、马家辉指定推荐版，苏童深度解读。】 - 威廉·福克纳.jpg"/>
+    </guide>
+</package>

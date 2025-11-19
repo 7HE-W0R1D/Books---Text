@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1390d02a-f157-4656-b167-91e321e79e96</dc:identifier>
+        <dc:title>通俗天文学:和大师一起与宇宙对话</dc:title>
+        <dc:creator opf:file-as="译, 纽康 著 金克木" opf:role="aut">纽康 (Simon Newcomb) 著 金克木 译</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-01T05:00:00+00:00</dc:date>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00SF3GF5I</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="通俗天文学:和大师一起与宇宙对话"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="通俗天文学_和大师一起与宇宙对话 - 纽康 (Simon Newcomb) 著 金克木 译.jpg"/>
+    </guide>
+</package>

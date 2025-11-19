@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5178c3c1-873e-4fcb-aedd-ab21904d7fb6</dc:identifier>
+        <dc:title>悲惨世界(套装上中下册)（雨果最负盛名代表作品；翻译伉俪经典译本；同名影视剧作原著） (名著名译插图本:精华版)</dc:title>
+        <dc:creator opf:file-as="雨果" opf:role="aut">雨果</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00GUDJX7W</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="悲惨世界(套装上中下册)（雨果最负盛名代表作品；翻译伉俪经典译本；同名影视剧作原著） (名著名译插图本:精华版)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="悲惨世界(套装上中下册)（雨果最负盛名代表作品；翻译伉俪经典译本；同名影视剧作原著） (名著名译插图本_精华版) - 雨果.jpg"/>
+    </guide>
+</package>

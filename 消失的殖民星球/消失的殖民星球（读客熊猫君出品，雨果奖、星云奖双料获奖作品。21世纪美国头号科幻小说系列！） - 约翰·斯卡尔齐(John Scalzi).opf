@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2412cccf-8b12-42d5-b077-9dedaac7b167</dc:identifier>
+        <dc:title>消失的殖民星球（读客熊猫君出品，雨果奖、星云奖双料获奖作品。21世纪美国头号科幻小说系列！）</dc:title>
+        <dc:creator opf:file-as="约翰·斯卡尔齐(John Scalzi)" opf:role="aut">约翰·斯卡尔齐(John Scalzi)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-25T05:00:00+00:00</dc:date>
+        <dc:publisher>江苏凤凰文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N40EFXT</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="消失的殖民星球（读客熊猫君出品，雨果奖、星云奖双料获奖作品。21世纪美国头号科幻小说系列！）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="消失的殖民星球（读客熊猫君出品，雨果奖、星云奖双料获奖作品。21世纪美国头号科幻小说系列！） - 约翰·斯卡尔齐(John Scalzi).jpg"/>
+    </guide>
+</package>

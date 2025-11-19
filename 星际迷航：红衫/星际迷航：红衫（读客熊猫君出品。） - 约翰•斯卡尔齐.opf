@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f53f1b1-4898-4c55-9e84-76cdab9e5ba7</dc:identifier>
+        <dc:title>星际迷航：红衫（读客熊猫君出品。）</dc:title>
+        <dc:creator opf:file-as="约翰•斯卡尔齐" opf:role="aut">约翰•斯卡尔齐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-20T05:00:00+00:00</dc:date>
+        <dc:description>《星际迷航：红衫》：宇宙，人类最后的疆界。无畏号，星际联盟的旗舰，赫赫有名的英雄舰艇。它在宇宙中执行着一项项伟大的任务，探索新世界，寻找新文明，勇敢地航向前人所未至的宇宙洪荒。对于这一切，刚被调去舰上的低级军官达尔感到既光荣又兴奋……直到他发现：（1）每一次看似寻常的外勤任务，都免不了要遇到匪夷所思的危险；（2）飞船的舰长、首席科学官还有帅气的领航员总能戏剧化地幸存下来；（3）但很不幸，毫无例外，至少有一名军衔较低的船员会在任务中死去。为了拯救自己，为了不让下一次外勤任务成为自己的人生谢幕，达尔和他的伙伴们展开了一场疯狂又惊心动魄的冒险。</dc:description>
+        <dc:publisher>北京联合出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00L3TIVY4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="星际迷航：红衫（读客熊猫君出品。）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="星际迷航：红衫（读客熊猫君出品。） - 约翰•斯卡尔齐.jpg"/>
+    </guide>
+</package>

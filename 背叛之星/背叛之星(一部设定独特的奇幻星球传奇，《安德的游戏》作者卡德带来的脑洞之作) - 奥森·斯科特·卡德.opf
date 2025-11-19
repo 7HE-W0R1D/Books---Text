@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2edd9d9b-c94b-41b0-8347-0a9e5943443d</dc:identifier>
+        <dc:title>背叛之星(一部设定独特的奇幻星球传奇，《安德的游戏》作者卡德带来的脑洞之作)</dc:title>
+        <dc:creator opf:file-as="奥森·斯科特·卡德" opf:role="aut">奥森·斯科特·卡德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-01T05:00:00+00:00</dc:date>
+        <dc:publisher>浙江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787533945633</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01LA86BRG</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="背叛之星(一部设定独特的奇幻星球传奇，《安德的游戏》作者卡德带来的脑洞之作)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="背叛之星(一部设定独特的奇幻星球传奇，《安德的游戏》作者卡德带来的脑洞之作) - 奥森·斯科特·卡德.jpg"/>
+    </guide>
+</package>

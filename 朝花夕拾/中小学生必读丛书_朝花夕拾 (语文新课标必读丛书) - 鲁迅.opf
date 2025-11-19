@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e8cdeb0-5254-403a-bf4b-e14316eecb02</dc:identifier>
+        <dc:title>中小学生必读丛书:朝花夕拾 (语文新课标必读丛书)</dc:title>
+        <dc:creator opf:file-as="鲁迅" opf:role="aut">鲁迅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-01T05:00:00+00:00</dc:date>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0085SF6EE</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="中小学生必读丛书:朝花夕拾 (语文新课标必读丛书)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="中小学生必读丛书_朝花夕拾 (语文新课标必读丛书) - 鲁迅.jpg"/>
+    </guide>
+</package>

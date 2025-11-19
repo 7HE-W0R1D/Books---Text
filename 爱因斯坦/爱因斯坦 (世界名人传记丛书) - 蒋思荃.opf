@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd0e64be-5f9c-42f1-bd95-1e952cd1934c</dc:identifier>
+        <dc:title>爱因斯坦 (世界名人传记丛书)</dc:title>
+        <dc:creator opf:file-as="蒋思荃" opf:role="aut">蒋思荃</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-01T05:00:00+00:00</dc:date>
+        <dc:publisher>浙江少年儿童出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008H0F6H2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787534238116</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="爱因斯坦 (世界名人传记丛书)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="爱因斯坦 (世界名人传记丛书) - 蒋思荃.jpg"/>
+    </guide>
+</package>

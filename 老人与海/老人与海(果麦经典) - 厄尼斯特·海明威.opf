@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a2687d7-89c7-4379-a966-9f5436c9d877</dc:identifier>
+        <dc:title>老人与海(果麦经典)</dc:title>
+        <dc:creator opf:file-as="厄尼斯特·海明威" opf:role="aut">厄尼斯特·海明威</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CBDG300</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="老人与海(果麦经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="老人与海(果麦经典) - 厄尼斯特·海明威.jpg"/>
+    </guide>
+</package>

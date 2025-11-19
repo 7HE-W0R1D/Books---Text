@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe75d35b-ce1a-4d95-951f-2daf936d11a0</dc:identifier>
+        <dc:title>超越平凡的平面设计: 版式设计原理与应用（异步图书）</dc:title>
+        <dc:creator opf:file-as="麦克韦德(John McWade)" opf:role="aut">麦克韦德(John McWade)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-01T05:00:00+00:00</dc:date>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321580122</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CBBJS54</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="超越平凡的平面设计: 版式设计原理与应用（异步图书）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="超越平凡的平面设计_ 版式设计原理与应用（异步图书） - 麦克韦德(John McWade).jpg"/>
+    </guide>
+</package>

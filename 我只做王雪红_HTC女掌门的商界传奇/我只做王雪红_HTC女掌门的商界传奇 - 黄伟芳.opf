@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">416453e4-cc76-4bc6-bec7-3f1c835535e6</dc:identifier>
+        <dc:title>我只做王雪红:HTC女掌门的商界传奇</dc:title>
+        <dc:creator opf:file-as="黄伟芳" opf:role="aut">黄伟芳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-01T05:00:00+00:00</dc:date>
+        <dc:publisher>广东经济出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A4AQZCI</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="我只做王雪红:HTC女掌门的商界传奇"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="我只做王雪红_HTC女掌门的商界传奇 - 黄伟芳.jpg"/>
+    </guide>
+</package>

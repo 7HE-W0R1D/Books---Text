@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ef795d1-8cc1-44c4-ae41-9838b9014548</dc:identifier>
+        <dc:title>How to Speak and Write Correctly (免费公版书)</dc:title>
+        <dc:creator opf:file-as="Devlin,Joseph" opf:role="aut">Devlin,Joseph</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-12T05:00:00+00:00</dc:date>
+        <dc:publisher>Wildside Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A72W3ME</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Rhetoric</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="How to Speak and Write Correctly (免费公版书)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Speak and Write Correctly (免费公版书) - Devlin,Joseph.jpg"/>
+    </guide>
+</package>

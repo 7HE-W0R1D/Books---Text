@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6e7dd00-a723-4109-b40e-4e6047cc7e6d</dc:identifier>
+        <dc:title>偷影子的人 (博集外国文学书榜系列 1)</dc:title>
+        <dc:creator opf:file-as="马克·李维(Marc Levy)" opf:role="aut">马克·李维(Marc Levy)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00MFHAMMW</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="偷影子的人 (博集外国文学书榜系列 1)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="偷影子的人 (博集外国文学书榜系列 1) - 马克·李维(Marc Levy).jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e9d97e3-d9f4-424f-ac16-ac86ac59719f</dc:identifier>
+        <dc:title>史蒂夫·乔布斯传(Steve Jobs:A Biography)(乔布斯唯一正式授权传记中文版）（修订版） (中信十年人物经典)</dc:title>
+        <dc:creator opf:file-as="沃尔特·艾萨克森 (Walter Isaacson)" opf:role="aut">沃尔特·艾萨克森 (Walter Isaacson)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-24T05:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508643298</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0084X49V6</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="史蒂夫·乔布斯传(Steve Jobs:A Biography)(乔布斯唯一正式授权传记中文版）（修订版） (中信十年人物经典)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="史蒂夫·乔布斯传(Steve Jobs_A Biography)(乔布斯唯一正式授权传记中文版）（修订版） (中信十年人物经典) - 沃尔特·艾萨克森 (Walter Isaacson).jpg"/>
+    </guide>
+</package>

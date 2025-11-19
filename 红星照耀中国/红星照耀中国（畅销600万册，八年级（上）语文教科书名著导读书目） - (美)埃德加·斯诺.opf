@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df5213d4-1416-48e8-bda8-60f8dd812b14</dc:identifier>
+        <dc:title>红星照耀中国（畅销600万册，八年级（上）语文教科书名著导读书目）</dc:title>
+        <dc:creator opf:file-as="(美)埃德加·斯诺" opf:role="aut">(美)埃德加·斯诺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-08T05:00:00+00:00</dc:date>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MDNPYY2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="红星照耀中国（畅销600万册，八年级（上）语文教科书名著导读书目）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="红星照耀中国（畅销600万册，八年级（上）语文教科书名著导读书目） - (美)埃德加·斯诺.jpg"/>
+    </guide>
+</package>

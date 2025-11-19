@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5d27699-b210-43d8-9474-39379366c740</dc:identifier>
+        <dc:title>本杰明·富兰克林自传(外研社双语读库)</dc:title>
+        <dc:creator opf:file-as="Franklin）, 本杰明·富兰克林（Benjamin" opf:role="aut">[美] 本杰明·富兰克林（Benjamin Franklin）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-01T05:00:00+00:00</dc:date>
+        <dc:description>技术和制作支持：北京桑里德文化发展有限公司Technical and production support: Beijing. Sunlit Culture Development Co., Ltd.</dc:description>
+        <dc:publisher>外语教学与研究出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00AX2KKQO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787560097732</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="本杰明·富兰克林自传(外研社双语读库)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="本杰明·富兰克林自传(外研社双语读库) - [美] 本杰明·富兰克林（Benjamin Franklin）.jpg"/>
+    </guide>
+</package>

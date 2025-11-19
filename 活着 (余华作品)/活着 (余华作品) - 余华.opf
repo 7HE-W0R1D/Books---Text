@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecd7f783-705b-4e29-be2b-d595c7044973</dc:identifier>
+        <dc:title>活着 (余华作品)</dc:title>
+        <dc:creator opf:file-as="余华" opf:role="aut">余华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-01T05:00:00+00:00</dc:date>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01ARNQKG2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="活着 (余华作品)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="活着 (余华作品) - 余华.jpg"/>
+    </guide>
+</package>

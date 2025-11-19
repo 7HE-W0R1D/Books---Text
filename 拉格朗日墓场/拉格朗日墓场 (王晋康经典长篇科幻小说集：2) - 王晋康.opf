@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7137cc60-065f-4ee1-a372-b3c67af2e9d3</dc:identifier>
+        <dc:title>拉格朗日墓场 (王晋康经典长篇科幻小说集：2)</dc:title>
+        <dc:creator opf:file-as="王晋康" opf:role="aut">王晋康</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-01T05:00:00+00:00</dc:date>
+        <dc:publisher>中国华侨出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00SFDO2YY</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="拉格朗日墓场 (王晋康经典长篇科幻小说集：2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="拉格朗日墓场 (王晋康经典长篇科幻小说集：2) - 王晋康.jpg"/>
+    </guide>
+</package>

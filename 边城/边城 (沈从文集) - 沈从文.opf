@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5c37a62-4b2f-45d3-b778-16175f99dc1d</dc:identifier>
+        <dc:title>边城 (沈从文集)</dc:title>
+        <dc:creator opf:file-as="沈从文" opf:role="aut">沈从文</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-01T05:00:00+00:00</dc:date>
+        <dc:publisher>北京出版设出版集团,北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008H0H4B8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>儿童文学-长篇小说-中国-当代</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="边城 (沈从文集)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="边城 (沈从文集) - 沈从文.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d14c4b0e-cd45-4843-892b-66f95bc30043</dc:identifier>
+        <dc:title>刘慈欣的最爱：阿瑟·克拉克经典科幻超值套装(神的九十亿个名字+最后一个地球人+遥远地球之歌+地光)(套装共4册)（读客全球顶级畅销小说文库）</dc:title>
+        <dc:creator opf:file-as="阿瑟·克拉克" opf:role="aut">阿瑟·克拉克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-16T05:00:00+00:00</dc:date>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B014DAN6WQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="刘慈欣的最爱：阿瑟·克拉克经典科幻超值套装(神的九十亿个名字+最后一个地球人+遥远地球之歌+地光)(套装共4册)（读客全球顶级畅销小说文库）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="刘慈欣的最爱：阿瑟·克拉克经典科幻超值套装(神的九十亿个名字_最后一个地球人_遥远地球之歌_地光)(套装共4册)（读客全球顶级畅销小说文库） - 阿瑟·克拉克.jpg"/>
+    </guide>
+</package>

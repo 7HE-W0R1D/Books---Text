@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6912e9ff-f372-4e8c-a6be-632034384fbb</dc:identifier>
+        <dc:title>王晋康长篇科幻小说集3:生死平衡</dc:title>
+        <dc:creator opf:file-as="王晋康" opf:role="aut">王晋康</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-01T05:00:00+00:00</dc:date>
+        <dc:publisher>中国华侨出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B009P4P2LE</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="王晋康长篇科幻小说集3:生死平衡"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="王晋康长篇科幻小说集3_生死平衡 - 王晋康.jpg"/>
+    </guide>
+</package>

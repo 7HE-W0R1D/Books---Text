@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e52c605b-457b-469b-9348-3de66817747d</dc:identifier>
+        <dc:title>旅行摄影圣经(完美随行版)</dc:title>
+        <dc:creator opf:file-as="张千里" opf:role="aut">张千里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00TGW040Y</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="旅行摄影圣经(完美随行版)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="旅行摄影圣经(完美随行版) - 张千里.jpg"/>
+    </guide>
+</package>

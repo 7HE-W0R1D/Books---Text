@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d548683e-a19e-4a75-80b6-bc8be0c0145b</dc:identifier>
+        <dc:title>古诗十九首</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-23T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00AA7KHXI</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="古诗十九首"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="古诗十九首 - Unknown.jpg"/>
+    </guide>
+</package>

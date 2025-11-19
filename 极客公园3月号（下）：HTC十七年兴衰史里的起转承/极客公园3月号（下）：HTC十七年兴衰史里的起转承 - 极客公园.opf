@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ddc42d-0e0a-4d15-8f94-6bdda08bd5a3</dc:identifier>
+        <dc:title>极客公园3月号（下）：HTC十七年兴衰史里的起转承</dc:title>
+        <dc:creator opf:file-as="极客公园" opf:role="aut">极客公园</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-21T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00HMXZKSA</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="极客公园3月号（下）：HTC十七年兴衰史里的起转承"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="极客公园3月号（下）：HTC十七年兴衰史里的起转承 - 极客公园.jpg"/>
+    </guide>
+</package>

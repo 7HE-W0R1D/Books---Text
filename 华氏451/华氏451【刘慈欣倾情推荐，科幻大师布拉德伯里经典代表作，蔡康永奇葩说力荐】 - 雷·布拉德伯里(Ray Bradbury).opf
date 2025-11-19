@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4bab05b-5395-4891-bbed-89757dbc9ce1</dc:identifier>
+        <dc:title>华氏451【刘慈欣倾情推荐，科幻大师布拉德伯里经典代表作，蔡康永奇葩说力荐】</dc:title>
+        <dc:creator opf:file-as="雷·布拉德伯里(Ray Bradbury)" opf:role="aut">雷·布拉德伯里(Ray Bradbury)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-01T05:00:00+00:00</dc:date>
+        <dc:publisher>Shang Hai Yi Wen Chu Ban She/Tsai Fong Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01GPNZH2Q</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="华氏451【刘慈欣倾情推荐，科幻大师布拉德伯里经典代表作，蔡康永奇葩说力荐】"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="华氏451【刘慈欣倾情推荐，科幻大师布拉德伯里经典代表作，蔡康永奇葩说力荐】 - 雷·布拉德伯里(Ray Bradbury).jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbd1e5ed-7746-4f79-b432-756a55578ca1</dc:identifier>
+        <dc:title>钢铁是怎样炼成的 (经典译林)</dc:title>
+        <dc:creator opf:file-as="尼·奥斯特洛夫斯基" opf:role="aut">尼·奥斯特洛夫斯基</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-01T05:00:00+00:00</dc:date>
+        <dc:publisher>凤凰出版传媒集团，译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CCWKIKQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:09+00:00"/>
+        <meta name="calibre:title_sort" content="钢铁是怎样炼成的 (经典译林)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="钢铁是怎样炼成的 (经典译林) - 尼·奥斯特洛夫斯基.jpg"/>
+    </guide>
+</package>

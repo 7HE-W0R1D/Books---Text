@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c783b49e-f9dd-432b-9803-77ab1176e1b7</dc:identifier>
+        <dc:title>人生的枷锁【上海译文出品！天才作家毛姆的天才的著作，带有自传性质，酝酿十余年，毛姆最满意代表作品】（插图本·套装上下册） (毛姆文集)</dc:title>
+        <dc:creator opf:file-as="威廉·毛姆(William Maugham)" opf:role="aut">威廉·毛姆(William Maugham)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-01T05:00:00+00:00</dc:date>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B019Z3MROO</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:11+00:00"/>
+        <meta name="calibre:title_sort" content="人生的枷锁【上海译文出品！天才作家毛姆的天才的著作，带有自传性质，酝酿十余年，毛姆最满意代表作品】（插图本·套装上下册） (毛姆文集)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="人生的枷锁【上海译文出品！天才作家毛姆的天才的著作，带有自传性质，酝酿十余年，毛姆最满意代表作品】（插图本·套装上下册） (毛姆文集) - 威廉·毛姆(William Maugham).jpg"/>
+    </guide>
+</package>

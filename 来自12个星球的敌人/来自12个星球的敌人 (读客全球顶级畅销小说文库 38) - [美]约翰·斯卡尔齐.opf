@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a766d03d-3f24-4eca-af83-27e43800c2ee</dc:identifier>
+        <dc:title>来自12个星球的敌人 (读客全球顶级畅销小说文库 38)</dc:title>
+        <dc:creator opf:file-as="[美]约翰·斯卡尔齐" opf:role="aut">[美]约翰·斯卡尔齐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-01T05:00:00+00:00</dc:date>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00HN298W4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-12T16:39:10+00:00"/>
+        <meta name="calibre:title_sort" content="来自12个星球的敌人 (读客全球顶级畅销小说文库 38)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="来自12个星球的敌人 (读客全球顶级畅销小说文库 38) - [美]约翰·斯卡尔齐.jpg"/>
+    </guide>
+</package>
