@@ -1,0 +1,64 @@
+# Book and Document Collection .gitignore
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# System files
+desktop.ini
+.directory
+
+# Text editor backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# OneDrive specific
+.sync-conflict-*
+
+# Log files
+*.log
+
+# Cache directories
+.cache/
+cache/
+
+# Metadata files
+.metadata
+*.db
+
+# Kindle specific files
+*.sdr/
+*.mbp
+
+# Notes and annotations (uncomment if you want to ignore)
+# *.notes
+# annotations.txt
+
+# Personal files (uncomment if needed)
+# key.txt
+# passwords.txt
+# personal/
